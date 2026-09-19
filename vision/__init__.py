@@ -1,0 +1,1 @@
+"""Screen acquisition and synchronization."""
